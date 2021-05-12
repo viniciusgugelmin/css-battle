@@ -43,6 +43,9 @@
 
 4fun project - CSS Battle
 
+ #### Battle #1 - Pilot Battle
+ [#2 - Carrom](https://viniciusgugelmin.github.io/css-battle/Battle1-PilotBattle/2-Carrom.html)
+
  #### Battle #9 - Margin
  [#46 - Mountains](https://viniciusgugelmin.github.io/css-battle/Battle9-Margin/46-Mountains.html)
  
