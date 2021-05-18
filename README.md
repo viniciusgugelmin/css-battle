@@ -51,6 +51,7 @@
  
  #### Battle #11 - Overflow
  [#55 - Windmill](https://viniciusgugelmin.github.io/css-battle/Battle11-Overflow/55-Windmill.html)
+ [#59 - Earth](https://viniciusgugelmin.github.io/css-battle/Battle11-Overflow/59-Earth.html)
 
 ## Roadmap
 
